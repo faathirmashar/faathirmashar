@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faathirmashar&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=1C68C5"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=faathirmashar&show_icons=true&locale=en&layout=compact&hide=html,php)](https://github-readme-stats.vercel.app/api/top-langs?username=faathirmashar&show_icons=true&locale=en&layout=compact&hide=html,php)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=faathirmashar&show_icons=true&locale=en&layout=compact&hide=html,php" />
